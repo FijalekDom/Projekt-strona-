@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-05-12, 22:13:21
+    Author     : Dominik
+*/
+
+
+div{
+    color: #45525a;
+    font-size: 107%;
+    font-family: sans-serif;
+}
+
+#walidacja
+{
+    color: brown;
+}
+
+#formularz
+{
+    text-align: left;
+    width: 33%;
+    margin-left: 33.5%;
+}
+
+#przycisk
+{
+    text-align: center;
+}
+
+
+@media screen and (min-width: 1600px) {
+ #formularz
+{
+    margin-left: 45.5%;
+}
+}
+

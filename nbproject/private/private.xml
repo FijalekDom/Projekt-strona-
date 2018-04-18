@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/projektTAI/resources/views/layouts/strona.blade.php</file>
+            <file>file:/C:/xampp/htdocs/projektTAI/database/seeds/DatabaseSeeder.php</file>
+            <file>file:/C:/xampp/htdocs/projektTAI/database/seeds/CreateOfertaSeeder.php</file>
+            <file>file:/C:/xampp/htdocs/projektTAI/database/seeds/UsersTableSeeder.php</file>
+            <file>file:/C:/xampp/htdocs/projektTAI/app/Http/Controllers/IndexController.php</file>
+            <file>file:/C:/xampp/htdocs/projektTAI/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/xampp/htdocs/projektTAI/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/projektTAI/resources/views/index/add.blade.php</file>
+            <file>file:/C:/xampp/htdocs/projektTAI/.env</file>
+            <file>file:/C:/xampp/htdocs/projektTAI/database/migrations/2018_01_06_083336_create_ofertas_table.php</file>
+        </group>
+    </open-files>
+</project-private>

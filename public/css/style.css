@@ -1,0 +1,94 @@
+body { background:#99CC33}
+h1,h2,footer { padding:0.2em; text-align:center; color:#45525a; font-family: cursive}
+
+
+nav, footer {background: #45525a; color:#ffe9ba; border-radius:10px;}
+nav a {
+ float:left;
+ display:block;
+ width:24%;
+ padding:1%;
+ font-size:110%;
+ color:#ffe9ba;
+}
+
+#wysrodkuj
+{
+    text-align: center;
+    width: 33%;
+    margin-left: 33.5%;
+}
+
+p{
+    background: #ffe9ba;
+    width: 70%;
+    margin-left: 14.5%;
+}
+
+section {
+    clear:both;
+    color: #45525a;
+    font-size: 107%;
+    font-family: sans-serif;
+}
+img {border-radius:10px; }
+
+#nav {
+overflow: hidden;
+font-family: calibri, tahoma;
+}
+ul#nav li {
+list-style-type: none;
+float: left;
+margin-left: 12%;
+}
+
+ul#nav li a {
+display : block;
+padding : 4pt;
+text-decoration : none;
+}
+
+
+@media screen and (max-width: 720px) {
+ body { font-size: 13px; }
+ h1 { font-size: 23px; }
+ h2 { font-size: 18px; }
+ nav a {
+ width: 48%;
+ padding: 10px 0;
+ font-size:140%;
+ }
+ .slajd {width: 45%;}
+ ul#nav li:hover ul {
+position: absolute ; top: 11%;
+
+}
+}
+@media screen and (max-width: 650px) {
+ ul#nav li:hover ul {
+position: absolute ;
+ }
+ nav{
+     width: 60%;
+     margin-left: 20%;
+ }
+
+}
+
+@media screen and (max-width: 300px) {
+ ul#nav li:hover ul {
+position: absolute ; top: 14%;
+ }
+ nav{
+     width: 80%;
+     margin-left: 9.5%;
+ }
+}
+
+
+@media screen and (min-width: 1600px) {
+ ul#nav{
+     margin-left: 15%;
+ }
+}
